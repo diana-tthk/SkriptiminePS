@@ -1,0 +1,17 @@
+Kirjutada PS skript, mis teeb järgmise:
+
+1. Loob töölauda uue kausta teie nimega
+2. Loob kausta sisse uue faili 
+(nimeks proovige panna tänase kuupäeva
+abiks 'get-date')
+3. Faili sisse kirjutada paar rida 
+teksti (skriptiga)
+4. Printida faili sisu
+5. Lisada failisse veel üks rida teksti
+6. Jälle printida
+7. Nimetada faili ümber (uue nimi võib
+ise valida)
+8. Luua kausta sees uue kausta
+nimega 'backup'
+9. Kopeerida faili sinna uue 
+kausta sisse
